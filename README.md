@@ -30,11 +30,11 @@
 
 ![Gambar9](ss/ss9.png)
 
-![Gambar11](ss/ss11.png)
-
 ## Membuat Form
 
 ![Gambar12](ss/ss12.png)
+
+![Gambar11](ss/ss11.png)
 
 ![Gambar13](ss/ss13.png)
 
