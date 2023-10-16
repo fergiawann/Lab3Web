@@ -1,0 +1,30 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url(awan-animated.png);
+  background-size: 100%;
+}
+
+.container {
+  margin-top: 40vh;
+}
+
+p {
+  margin-top: 50px;
+  font-size: 30px;
+  font-weight: 800;
+}
+
+.dropdown {
+  display: flex;
+  margin-left: 40px;
+  margin-top: -20px;
+  width: 190px;
+  height: 40px;
+  background: ;
+}
+
+.text-dropdown {
+  display: none;
+}
