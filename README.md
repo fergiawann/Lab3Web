@@ -50,6 +50,7 @@
 
 ![Gambar16](ss/ss16.png)
 
+![Gambar18](ss/ss18.png)
+
 ![Gambar17](ss/ss17.png)
 
-![Gambar18](ss/ss18.png)
