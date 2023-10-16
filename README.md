@@ -20,15 +20,15 @@
 
 ## Membuat Tabel
 
-![Gambar7](ss/ss7.png)
-
 ![Gambar8](ss/ss8.png)
+
+![Gambar7](ss/ss7.png)
 
 ## Mengatur Margin dan Padding
 
-![Gambar9](ss/ss9.png)
-
 ![Gambar10](ss/ss10.png)
+
+![Gambar9](ss/ss9.png)
 
 ![Gambar11](ss/ss11.png)
 
